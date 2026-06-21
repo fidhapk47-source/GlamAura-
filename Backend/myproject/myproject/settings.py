@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ijy-u))q#h2*7d5jjm6j_wo5n)#y(8k+cwl%8$g8fy&xvgn0#-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -64,6 +64,7 @@ AUTH_USER_MODEL = "app.CustomUser"
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',  # 👈 MUST be at top
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -102,10 +103,10 @@ MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'glamaura',
+        'NAME': 'postgres',
         'USER': 'postgres',          # Your default username
-        'PASSWORD': '9090', # The password you set during installation
-        'HOST': 'localhost',
+        'PASSWORD': '#fidhapk0123', # The password you set during installation
+        'HOST': 'db.eceehmcptylpbdrpqtao.supabase.co',
         'PORT': '5432',
     }
 }
@@ -173,3 +174,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
