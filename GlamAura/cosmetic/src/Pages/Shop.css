@@ -1,0 +1,167 @@
+/* HERO VIDEO */
+.hero-area {
+  position: relative;
+  width: 100%;
+  height: 660px;
+  overflow: hidden;
+  /* border-radius: 12px; */
+}
+
+.hero-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* DARK OVERLAY */
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 183, 158, 0.25); /* peach overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* HERO TEXT */
+.hero-content {
+  text-align: center;
+  color: black;
+}
+
+.hero-title {
+  font-size: 42px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hero-subtitle {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* BUTTON */
+.hero-btn {
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: linear-gradient(135deg, black, pink);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.hero-btn:hover {
+  transform: scale(1.05);
+}
+
+/* SECTION TITLE */
+.section-title {
+  text-align: center;
+  margin: 0px 0 15px;
+  font-size: 28px;
+  color: #ffffff; /* dark peach */
+}
+
+/* PRODUCT GRID */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  padding: 0 20px;
+}
+
+/* PRODUCT CARD */
+.product-card {
+  background:linear-gradient(135deg, black, pink); 
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(255, 140, 107, 0.2);
+  text-align: center;
+  transition: 0.3s;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-card img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* BUTTON */
+.product-card button {
+  margin-top: 10px;
+  padding: 6px 12px;
+  background: linear-gradient(135deg, black, pink);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* CATEGORY */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 15px;
+  padding: 0 20px;
+}
+
+.category-card {
+  background: linear-gradient(135deg, black, pink);
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.new_arrivals_bg{
+  background: linear-gradient(135deg, black, pink);
+}
+.category-card:hover {
+  transform: scale(1.05);
+  background: linear-gradient(135deg, black, pink);
+}
+
+.category_bg{
+  background: linear-gradient(135deg, black, pink);
+}
+
+.category-bg{
+  background-color: white;
+}
+
+/* ABOUT */
+.about-section {
+  /* margin: 40px auto; */
+  width: 90%;
+  padding: 85px;
+  background: linear-gradient(135deg, black, pink);
+  border-radius: 12px;
+  text-align: center;
+}
+
+/* FOOTER */
+.footer {
+  background: linear-gradient(135deg, black, pink);
+  color: white;
+  padding: 12px;
+  text-align: center;
+}
+
+
+.hero-title{
+  font-family: a;
+}

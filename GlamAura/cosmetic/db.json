@@ -1,0 +1,1414 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": "1234",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "admin01",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "04f1",
+      "name": "fidha",
+      "email": "fidhapk475@gmail.com",
+      "password": "123",
+      "cart": [
+        {
+          "id": "39",
+          "name": "Bridal Bundle 3",
+          "image": "bridal3.jpg",
+          "price": 110,
+          "qty": 2
+        },
+        {
+          "id": "32",
+          "name": "New Arrival 2",
+          "category": "new-arrivals",
+          "image": "new2.jpg",
+          "new_price": 62,
+          "old_price": 98,
+          "qty": 1
+        }
+      ],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "81ba",
+      "name": "hase",
+      "email": "has@gmail.com",
+      "password": "1234",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "0429",
+      "name": "fidhu",
+      "email": "fidhapk4756@gmail.com",
+      "password": "123",
+      "cart": [],
+      "wishlist": [
+        {
+          "id": "21",
+          "name": "Nail Polish 3",
+          "image": "/Images/nail-glossier.jpg",
+          "price": 26
+        },
+        {
+          "id": "22",
+          "name": "Nail Polish 4",
+          "image": "/Images/nail-polish-esseie.jpg",
+          "price": 30
+        },
+        {
+          "id": "27",
+          "name": "Brush Set 3",
+          "image": "/Images/black-brushes.jpg",
+          "price": 75
+        }
+      ],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "5918",
+      "name": "hasy",
+      "email": "hasee@gmail.com",
+      "password": "12345",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "ff8e",
+      "name": "fiyas",
+      "email": "fiyas@gmail.com",
+      "password": "9090",
+      "cart": [],
+      "wishlist": [],
+      "order": []
+    },
+    {
+      "id": "a92b",
+      "name": "yasar",
+      "email": "yasararafath@gmail.com",
+      "password": "yasar",
+      "cart": [],
+      "wishlist": [
+        {
+          "id": "27",
+          "name": "Brush Set 3",
+          "category": "brushes-tools",
+          "image": "brush3.jpg",
+          "new_price": 75,
+          "old_price": 115
+        }
+      ],
+      "order": []
+    },
+    {
+      "id": "04e6",
+      "name": "abhiram",
+      "email": "abhiram@gmail.com",
+      "password": "4567",
+      "cart": [
+        {
+          "id": "20",
+          "name": "Nail Polish 2",
+          "image": "/Images/nail-essie-pink.jpg",
+          "price": 28,
+          "qty": 3
+        }
+      ],
+      "wishlist": [],
+      "order": []
+    },
+    {
+      "id": "6d1d",
+      "name": "fahhi",
+      "email": "fahhi@gmail.com",
+      "password": "123",
+      "cart": [],
+      "wishlist": [],
+      "order": []
+    },
+    {
+      "id": "fd7a",
+      "name": "fathima",
+      "email": "fathima@gmail.com",
+      "password": "234",
+      "cart": [
+        {
+          "id": "4",
+          "name": "Glam Face Kit 4",
+          "image": "/Images/foundatin-latest.jpg",
+          "price": 65,
+          "qty": 1
+        }
+      ],
+      "wishlist": [
+        {
+          "id": "8",
+          "name": "Eye Shadow Pro 2",
+          "image": "/Images/eyelash-plucker-black.jpg",
+          "price": 42
+        }
+      ],
+      "order": []
+    },
+    {
+      "id": "d0e2",
+      "name": "fahhi",
+      "email": "fahhi@gmail.com",
+      "password": "123",
+      "cart": [],
+      "wishlist": [],
+      "order": []
+    },
+    {
+      "id": "4b31",
+      "name": "fedha",
+      "email": "fidhapk4758@gmail.com",
+      "password": "fidhu",
+      "cart": [
+        {
+          "id": "20",
+          "name": "Nail Polish 2",
+          "image": "/Images/nail-essie-pink.jpg",
+          "price": 28,
+          "qty": 1
+        }
+      ],
+      "wishlist": [
+        {
+          "id": "2",
+          "name": "NARS Water Proof Foundation",
+          "image": "/Images/NarsFoundation.jpg",
+          "price": 649
+        }
+      ],
+      "order": []
+    },
+    {
+      "id": "772e",
+      "name": "Faheem",
+      "email": "MuhammedFaheemPk@gmail.com",
+      "password": "faheem000",
+      "cart": [],
+      "wishlist": [
+        {
+          "id": "17",
+          "name": "Lip Matte 5",
+          "image": "/Images/nudeshade.jpg",
+          "price": 599
+        }
+      ],
+      "order": []
+    },
+    {
+      "id": "2bc4",
+      "name": "Faheemm",
+      "email": "MuhammedFaheemPk@gmail.com",
+      "password": "123",
+      "cart": [],
+      "wishlist": [],
+      "order": []
+    },
+    {
+      "id": "0a20",
+      "name": "fahi",
+      "email": "MuhammedFaheeemPk@gmail.com",
+      "password": "123",
+      "cart": [
+        {
+          "id": "31",
+          "name": "Nykaa light cream foundation",
+          "image": "\\Images\\facesecone.jpg",
+          "price": 249,
+          "qty": 1
+        }
+      ],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "f61b",
+      "name": "fanu",
+      "email": "Fanu@gamil.com",
+      "password": "123",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "b1b6",
+      "name": "fidha",
+      "email": "fidhapk47567@gmail.com",
+      "password": "123",
+      "cart": [
+        {
+          "id": "32",
+          "name": "Dark eyeybrow  Palette",
+          "image": "\\Images\\eyesecfour.jpg",
+          "price": 62,
+          "qty": 1
+        },
+        {
+          "id": "39",
+          "name": "Bridal Bundle 3",
+          "image": "/Images/bridal-three.jpg",
+          "price": 110,
+          "qty": 1
+        }
+      ],
+      "wishlist": [
+        {
+          "id": "39",
+          "name": "Bridal Bundle 3",
+          "image": "/Images/bridal-three.jpg",
+          "price": 110
+        }
+      ],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "eb10",
+      "name": "fidhapk",
+      "email": "Fedha56.gmail.com",
+      "password": "123",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "0e0f",
+      "name": "fathimafidhapk",
+      "email": "fathimafidha@gmail.com",
+      "password": "123",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "b9d3",
+      "name": "fidha",
+      "email": "fidhapk14756@gmail.com",
+      "password": "123",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "e8d4",
+      "name": "Fidha",
+      "email": "fidhapk@gmail.com",
+      "password": "fidha",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "9496",
+      "name": "Fidhapk",
+      "email": "fidhapk2@gmail.com",
+      "password": "fidha",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "a5e5",
+      "name": "shna",
+      "email": "shana@gmail.com",
+      "password": "123",
+      "cart": [
+        {
+          "id": "7",
+          "name": "EyePalet Brown Shade",
+          "image": "/Images/eyebrow-shader.jpg",
+          "price": 199,
+          "qty": 2
+        }
+      ],
+      "wishlist": [],
+      "order": [],
+      "status": "blocked"
+    },
+    {
+      "id": "69a3",
+      "name": "haseena",
+      "email": "haseena@gmail.com",
+      "password": "1234$",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    },
+    {
+      "id": "f2a5",
+      "name": "fidhapk",
+      "email": "fidhayas1@gmail.com",
+      "password": "@asdf",
+      "cart": [],
+      "wishlist": [],
+      "order": [],
+      "status": "active"
+    }
+  ],
+  "Product": [
+    {
+      "name": "Compact",
+      "category": "eye",
+      "image": "/Images/RoseHighlighter.jpg",
+      "new_price": 349,
+      "old_price": 449,
+      "id": "1"
+    },
+    {
+      "name": "NARS Water Proof Foundation",
+      "category": "face",
+      "image": "/Images/NarsFoundation.jpg",
+      "new_price": 649,
+      "old_price": 699,
+      "id": "2"
+    },
+    {
+      "name": "Magic Foundation RoseWhite Shade",
+      "category": "face",
+      "image": "/Images/MagicFoundation.jpg",
+      "new_price": 599,
+      "old_price": 699,
+      "id": "3"
+    },
+    {
+      "name": "GlamAura WaterProof Foundation",
+      "category": "face",
+      "image": "/Images/foundatin-latest.jpg",
+      "new_price": 449,
+      "old_price": 549,
+      "id": "4"
+    },
+    {
+      "name": "MAC Studio LightWhite Foundation",
+      "category": "face",
+      "image": "/Images/MacFoundation.jpg",
+      "new_price": 749,
+      "old_price": 799,
+      "id": "5"
+    },
+    {
+      "name": "Rose Powder brown and nuderose Shade",
+      "category": "face",
+      "image": "/Images/RosePowder.jpg",
+      "new_price": 349,
+      "old_price": 449,
+      "id": "6"
+    },
+    {
+      "name": "EyePalet Brown Shade",
+      "category": "eye",
+      "image": "/Images/eyebrow-shader.jpg",
+      "new_price": 199,
+      "old_price": 249,
+      "id": "7"
+    },
+    {
+      "name": "Eyelash Curler",
+      "category": "eye",
+      "image": "/Images/eyelash-plucker-black.jpg",
+      "new_price": 139,
+      "old_price": 199,
+      "id": "8"
+    },
+    {
+      "name": "Eyelash Curler PInk",
+      "category": "eye",
+      "image": "/Images/plucker-pink.jpg",
+      "new_price": 149,
+      "old_price": 249,
+      "id": "9"
+    },
+    {
+      "name": "SkyHigh Mascaro",
+      "category": "eye",
+      "image": "/Images/mascaro.jpg",
+      "new_price": 249,
+      "old_price": 299,
+      "id": "10"
+    },
+    {
+      "name": "EyeShadow Palette",
+      "category": "eye",
+      "image": "/Images/eye-shadow.jpg",
+      "new_price": 299,
+      "old_price": 399,
+      "id": "11"
+    },
+    {
+      "name": "Eyeliner Insight",
+      "category": "eye",
+      "image": "/Images/eye-liner.jpg",
+      "new_price": 299,
+      "old_price": 399,
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "name": "Lip Matte 1",
+      "category": "lips",
+      "image": "/Images/pink.jpg",
+      "new_price": 399,
+      "old_price": 499
+    },
+    {
+      "id": "14",
+      "name": "Lip Matte 2",
+      "category": "lips",
+      "image": "/Images/meroon.jpg",
+      "new_price": 349,
+      "old_price": 599
+    },
+    {
+      "id": "15",
+      "name": "Lip Matte 3",
+      "category": "lips",
+      "image": "/Images/red.jpg",
+      "new_price": 199,
+      "old_price": 299
+    },
+    {
+      "id": "16",
+      "name": "Lip Matte 4",
+      "category": "lips",
+      "image": "/Images/light-pink.jpg",
+      "new_price": 499,
+      "old_price": 699
+    },
+    {
+      "id": "17",
+      "name": "Lip Matte 5",
+      "category": "lips",
+      "image": "/Images/nudeshade.jpg",
+      "new_price": 599,
+      "old_price": 799
+    },
+    {
+      "id": "18",
+      "name": "Lip Matte 6",
+      "category": "lips",
+      "image": "/Images/rose.jpg",
+      "new_price": 349,
+      "old_price": 499
+    },
+    {
+      "id": "19",
+      "name": "Nail Polish 1",
+      "category": "nail",
+      "image": "/Images/nail-enamel.jpg",
+      "new_price": 25,
+      "old_price": 40
+    },
+    {
+      "id": "20",
+      "name": "Nail Polish 2",
+      "category": "nail",
+      "image": "/Images/nail-essie-pink.jpg",
+      "new_price": 28,
+      "old_price": 42
+    },
+    {
+      "id": "21",
+      "name": "Nail Polish 3",
+      "category": "nail",
+      "image": "/Images/nail-glossier.jpg",
+      "new_price": 26,
+      "old_price": 38
+    },
+    {
+      "id": "22",
+      "name": "Nail Polish 4",
+      "category": "nail",
+      "image": "/Images/nail-polish-esseie.jpg",
+      "new_price": 30,
+      "old_price": 45
+    },
+    {
+      "id": "23",
+      "name": "Nail Polish 5",
+      "category": "nail",
+      "image": "/Images/nail-polish-orosa.jpg",
+      "new_price": 24,
+      "old_price": 36
+    },
+    {
+      "id": "24",
+      "name": "Nail Polish 6",
+      "category": "nail",
+      "image": "/Images/nail-tools.jpg",
+      "new_price": 29,
+      "old_price": 43
+    },
+    {
+      "id": "25",
+      "name": "Brush Set 1",
+      "category": "brushes-tools",
+      "image": "/Images/white-brushes.jpg",
+      "new_price": 80,
+      "old_price": 120
+    },
+    {
+      "id": "26",
+      "name": "Brush Set 2",
+      "category": "brushes-tools",
+      "image": "/Images/sponch.jpg",
+      "new_price": 85,
+      "old_price": 130
+    },
+    {
+      "id": "27",
+      "name": "Brush Set 3",
+      "category": "brushes-tools",
+      "image": "/Images/black-brushes.jpg",
+      "new_price": 75,
+      "old_price": 115
+    },
+    {
+      "id": "28",
+      "name": "Brush Set 4",
+      "category": "brushes-tools",
+      "image": "/Images/curly-bun.jpg",
+      "new_price": 90,
+      "old_price": 140
+    },
+    {
+      "id": "29",
+      "name": "Brush Set 5",
+      "category": "brushes-tools",
+      "image": "/Images/pink-brushes.jpg",
+      "new_price": 82,
+      "old_price": 125
+    },
+    {
+      "id": "30",
+      "name": "Brush Set 6",
+      "category": "brushes-tools",
+      "image": "/Images/hair-tools.jpg",
+      "new_price": 78,
+      "old_price": 120
+    },
+    {
+      "name": "Nykaa light cream foundation",
+      "category": "new-arrivals",
+      "image": "\\Images\\facesecone.jpg",
+      "new_price": 249,
+      "old_price": 399,
+      "id": "31"
+    },
+    {
+      "name": "Dark eyeybrow  Palette",
+      "category": "new-arrivals",
+      "image": "\\Images\\eyesecfour.jpg",
+      "new_price": 62,
+      "old_price": 98,
+      "id": "32"
+    },
+    {
+      "name": "Brushes",
+      "category": "new-arrivals",
+      "image": "/Images/black-brushes.jpg",
+      "new_price": 199,
+      "old_price": 299,
+      "id": "33"
+    },
+    {
+      "name": "Bridal Cos Full combo",
+      "category": "new-arrivals",
+      "image": "/Images/bridal-five.jpg",
+      "new_price": 4999,
+      "old_price": 7999,
+      "id": "34"
+    },
+    {
+      "name": "New Arrival 5",
+      "category": "new-arrivals",
+      "image": "/Images/nudeshade.jpg",
+      "new_price": 63,
+      "old_price": 94,
+      "id": "35"
+    },
+    {
+      "name": "New Arrival 6",
+      "category": "new-arrivals",
+      "image": "/Images/care-centellapink.jpg",
+      "new_price": 59,
+      "old_price": 93,
+      "id": "36"
+    },
+    {
+      "id": "37",
+      "name": "Bridal Bundle 1",
+      "category": "bridal-bundle",
+      "image": "/Images/bridal-one.jpg",
+      "new_price": 120,
+      "old_price": 180
+    },
+    {
+      "id": "38",
+      "name": "Bridal Bundle 2",
+      "category": "bridal-bundle",
+      "image": "/Images/bridal-two.jpg",
+      "new_price": 130,
+      "old_price": 190
+    },
+    {
+      "id": "39",
+      "name": "Bridal Bundle 3",
+      "category": "bridal-bundle",
+      "image": "/Images/bridal-three.jpg",
+      "new_price": 110,
+      "old_price": 170
+    },
+    {
+      "id": "40",
+      "name": "Bridal Bundle 4",
+      "category": "bridal-bundle",
+      "image": "/Images/bridal-four.jpg",
+      "new_price": 140,
+      "old_price": 200
+    },
+    {
+      "name": "Bridal Bundle 5",
+      "category": "bridal-bundle",
+      "image": "/Images/bridal-five.jpg",
+      "new_price": 4999,
+      "old_price": 7999,
+      "id": "41"
+    },
+    {
+      "id": "42",
+      "name": "Bridal Bundle 6",
+      "category": "bridal-bundle",
+      "image": "/Images/bridal-six.jpg",
+      "new_price": 115,
+      "old_price": 175
+    },
+    {
+      "id": "43",
+      "name": "Glow Skin 1",
+      "category": "skincare",
+      "image": "/Images/care-centellapink.jpg",
+      "new_price": 45,
+      "old_price": 70
+    },
+    {
+      "id": "44",
+      "name": "Glow Skin 2",
+      "category": "skincare",
+      "image": "/images/ceare-centellabrown.jpg",
+      "new_price": 48,
+      "old_price": 72
+    },
+    {
+      "id": "45",
+      "name": "Glow Skin 3",
+      "category": "skincare",
+      "image": "skin3.jpg",
+      "new_price": 52,
+      "old_price": 78
+    },
+    {
+      "id": "46",
+      "name": "Glow Skin 4",
+      "category": "skincare",
+      "image": "skin4.jpg",
+      "new_price": 50,
+      "old_price": 75
+    },
+    {
+      "id": "47",
+      "name": "Glow Skin 5",
+      "category": "skincare",
+      "image": "skin5.jpg",
+      "new_price": 49,
+      "old_price": 74
+    },
+    {
+      "id": "48",
+      "name": "Glow Skin 6",
+      "category": "skincare",
+      "image": "skin6.jpg",
+      "new_price": 53,
+      "old_price": 79
+    },
+    {
+      "id": "a63a",
+      "name": "Nykaa Light Cream Foundation",
+      "category": "face",
+      "image": "\\Images\\facesecone.jpg",
+      "new_price": 249,
+      "old_price": 349
+    },
+    {
+      "id": "7ed9",
+      "name": "EUROPE Girl",
+      "category": "face",
+      "image": "\\Images\\facesectwo.jpg",
+      "new_price": 499,
+      "old_price": 549
+    },
+    {
+      "id": "322b",
+      "name": "Neutrogena",
+      "category": "face",
+      "image": "\\Images\\facesecthree.jpg",
+      "new_price": 249,
+      "old_price": 349
+    },
+    {
+      "id": "50de",
+      "name": "Dose of Colors",
+      "category": "face",
+      "image": "\\Images\\facesecfour.jpg",
+      "new_price": 339,
+      "old_price": 399
+    },
+    {
+      "id": "f6cd",
+      "name": "Dazzler Multi Foundation WaterProof",
+      "category": "face",
+      "image": "\\Images\\facesecfive.jpg",
+      "new_price": 249,
+      "old_price": 349
+    },
+    {
+      "id": "2ea9",
+      "name": "Brown RoseShade Mixed WaterProof Foundation",
+      "category": "face",
+      "image": "\\Images\\facesecsix.jpg",
+      "new_price": 440,
+      "old_price": 599
+    },
+    {
+      "id": "2a49",
+      "name": "CliniQUE even Better Glow",
+      "category": "face",
+      "image": "\\Images\\facesecseven.jpg",
+      "new_price": 599,
+      "old_price": 1299
+    },
+    {
+      "id": "6fd2",
+      "name": "Red GinsenG FV SK-Forever Foundation+Highlighter",
+      "category": "face",
+      "image": "\\Images\\faceseceight.jpg",
+      "new_price": 449,
+      "old_price": 799
+    },
+    {
+      "name": "TERRACOTD LE TENT Paris",
+      "category": "face",
+      "image": "\\Images\\facesecnine.jpg",
+      "new_price": 456,
+      "old_price": 678,
+      "id": "400c"
+    },
+    {
+      "id": "2769",
+      "name": "Eyebrow palette brown,black,gray...Combo",
+      "category": "eye",
+      "image": "\\Images\\eyesecone.jpg",
+      "new_price": 239,
+      "old_price": 399
+    },
+    {
+      "name": "Fenty Beauty Eyeliner",
+      "category": "eye",
+      "image": "\\Images\\eyesectwo.jpg",
+      "new_price": 299,
+      "old_price": 499,
+      "id": "abbc"
+    },
+    {
+      "name": "Transperamt Mascaro Dazzler",
+      "category": "eye",
+      "image": "\\Images\\eyesecthree.jpg",
+      "new_price": 349,
+      "old_price": 449,
+      "id": "3147"
+    },
+    {
+      "name": "DarkBrown EyeBrow palette ",
+      "category": "eye",
+      "image": "\\Images\\eyesecfour.jpg",
+      "new_price": 199,
+      "old_price": 249,
+      "id": "2830"
+    },
+    {
+      "name": "EyebrowPalette,stickEyeliner,Mascaro(combo)",
+      "category": "eye",
+      "image": "\\Images\\eyesecfive.jpg",
+      "new_price": 899,
+      "old_price": 999,
+      "id": "f023"
+    },
+    {
+      "name": "Eyebrow (darkBrown,lightBrown) Palette",
+      "category": "eye",
+      "image": "\\Images\\eyesecsix.jpg",
+      "new_price": 399,
+      "old_price": 499,
+      "id": "00cb"
+    },
+    {
+      "name": "Multicolor Eyeliners",
+      "category": "eye",
+      "image": "\\Images\\eyesecseven.jpg",
+      "new_price": 699,
+      "old_price": 899,
+      "id": "6937"
+    },
+    {
+      "name": "Mascaro and EyeLash (combo)",
+      "category": "eye",
+      "image": "\\Images\\eyeseceight.jpg",
+      "new_price": 399,
+      "old_price": 499,
+      "id": "9663"
+    },
+    {
+      "name": "Mascaro All set combo",
+      "category": "eye",
+      "image": "\\Images\\eyesecnine.jpg",
+      "new_price": 599,
+      "old_price": 699,
+      "id": "137f"
+    },
+    {
+      "id": "ae04",
+      "name": "compact",
+      "category": "eye",
+      "image": "/Images/RoseHighlighter.jpg",
+      "new_price": 123,
+      "old_price": 566
+    }
+  ],
+  "orders": [
+    {
+      "id": "1764063484279",
+      "userId": "a92b",
+      "items": [
+        {
+          "id": "20",
+          "name": "Nail Polish 2",
+          "image": "/Images/nail-essie-pink.jpg",
+          "price": 28,
+          "qty": 1
+        },
+        {
+          "id": "21",
+          "name": "Nail Polish 3",
+          "image": "/Images/nail-glossier.jpg",
+          "price": 26,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 54,
+      "date": "25/11/2025, 3:08:04 pm",
+      "status": "Shipped"
+    },
+    {
+      "id": "1764063772022",
+      "userId": "a92b",
+      "items": [
+        {
+          "id": "38",
+          "name": "Bridal Bundle 2",
+          "image": "/Images/bridal-two.jpg",
+          "price": 130,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 130,
+      "date": "25/11/2025, 3:12:52 pm",
+      "status": "Packed"
+    },
+    {
+      "id": "1764222827736",
+      "userId": "a92b",
+      "items": [
+        {
+          "id": "32",
+          "name": "New Arrival 2",
+          "image": "new2.jpg",
+          "price": 62,
+          "qty": 1
+        },
+        {
+          "id": "38",
+          "name": "Bridal Bundle 2",
+          "image": "/Images/bridal-two.jpg",
+          "price": 130,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 192,
+      "date": "27/11/2025, 11:23:47 am",
+      "status": "Shipped"
+    },
+    {
+      "id": "1764323383240",
+      "userId": "0429",
+      "items": [
+        {
+          "id": "7",
+          "name": "Eye Shadow Pro 1",
+          "image": "/Images/eyebrow-shader.jpg",
+          "price": 45,
+          "qty": 2
+        },
+        {
+          "id": "43",
+          "name": "Glow Skin 1",
+          "image": "/Images/care-centellapink.jpg",
+          "price": 45,
+          "qty": 1
+        },
+        {
+          "id": "a63a",
+          "name": "Nykaa Light Cream Foundation",
+          "image": "\\Images\\facesecone.jpg",
+          "price": 249,
+          "qty": 2
+        },
+        {
+          "id": "14",
+          "name": "Lip Matte 2",
+          "image": "/Images/meroon.jpg",
+          "price": 349,
+          "qty": 1
+        },
+        {
+          "id": "16",
+          "name": "Lip Matte 4",
+          "image": "/Images/light-pink.jpg",
+          "price": 499,
+          "qty": 1
+        },
+        {
+          "id": "13",
+          "name": "Lip Matte 1",
+          "image": "/Images/pink.jpg",
+          "price": 399,
+          "qty": 1
+        },
+        {
+          "id": "24",
+          "name": "Nail Polish 6",
+          "image": "/Images/nail-tools.jpg",
+          "price": 29,
+          "qty": 1
+        },
+        {
+          "id": "20",
+          "name": "Nail Polish 2",
+          "image": "/Images/nail-essie-pink.jpg",
+          "price": 28,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 1937,
+      "date": "28/11/2025, 3:19:43 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1764324430870",
+      "userId": "0429",
+      "items": [
+        {
+          "id": "1",
+          "name": "Glam Face Kit 1",
+          "image": "/Images/RoseHighlighter.jpg",
+          "price": 60,
+          "qty": 1
+        },
+        {
+          "id": "8",
+          "name": "Eye Shadow Pro 2",
+          "image": "/Images/eyelash-plucker-black.jpg",
+          "price": 42,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "UPI",
+      "total": 102,
+      "date": "28/11/2025, 3:37:10 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1764393100828",
+      "userId": "4b31",
+      "items": [
+        {
+          "id": "1",
+          "name": "Compact",
+          "image": "/Images/RoseHighlighter.jpg",
+          "price": 349,
+          "qty": 1
+        },
+        {
+          "id": "3",
+          "name": "Magic Foundation RoseWhite Shade",
+          "image": "/Images/MagicFoundation.jpg",
+          "price": 599,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "COD",
+      "total": 948,
+      "date": "29/11/2025, 10:41:40 am",
+      "status": "Packed"
+    },
+    {
+      "id": "1764413392812",
+      "userId": "0429",
+      "items": [
+        {
+          "id": "2ea9",
+          "name": "Brown RoseShade Mixed WaterProof Foundation",
+          "image": "\\Images\\facesecsix.jpg",
+          "price": 440,
+          "qty": 2
+        },
+        {
+          "id": "21",
+          "name": "Nail Polish 3",
+          "image": "/Images/nail-glossier.jpg",
+          "price": 26,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "UPI",
+      "total": 906,
+      "date": "29/11/2025, 4:19:52 pm",
+      "status": "Shipped"
+    },
+    {
+      "id": "1764507339552",
+      "userId": "772e",
+      "items": [
+        {
+          "id": "18",
+          "name": "Lip Matte 6",
+          "image": "/Images/rose.jpg",
+          "price": 349,
+          "qty": 1
+        },
+        {
+          "id": "13",
+          "name": "Lip Matte 1",
+          "image": "/Images/pink.jpg",
+          "price": 399,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 748,
+      "date": "30/11/2025, 6:25:39 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1764507794604",
+      "userId": "0a20",
+      "items": [
+        {
+          "id": "32",
+          "name": "Dark eyeybrow  Palette",
+          "image": "\\Images\\eyesecfour.jpg",
+          "price": 62,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 62,
+      "date": "30/11/2025, 6:33:14 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1764508221920",
+      "userId": "f61b",
+      "items": [
+        {
+          "id": "32",
+          "name": "Dark eyeybrow  Palette",
+          "image": "\\Images\\eyesecfour.jpg",
+          "price": 62,
+          "qty": 1
+        },
+        {
+          "id": "20",
+          "name": "Nail Polish 2",
+          "image": "/Images/nail-essie-pink.jpg",
+          "price": 28,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "COD",
+      "total": 90,
+      "date": "30/11/2025, 6:40:21 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1764526365680",
+      "userId": "0429",
+      "items": [
+        {
+          "id": "3147",
+          "name": "Transperamt Mascaro Dazzler",
+          "image": "\\Images\\eyesecthree.jpg",
+          "price": 349,
+          "qty": 3
+        },
+        {
+          "id": "40",
+          "name": "Bridal Bundle 4",
+          "image": "/Images/bridal-four.jpg",
+          "price": 140,
+          "qty": 2
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 1327,
+      "date": "30/11/2025, 11:42:45 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1764655917338",
+      "userId": "0429",
+      "items": [
+        {
+          "id": "13",
+          "name": "Lip Matte 1",
+          "image": "/Images/pink.jpg",
+          "price": 399,
+          "qty": 2
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 798,
+      "date": "2/12/2025, 11:41:57 am",
+      "status": "Shipped"
+    },
+    {
+      "id": "1764673533928",
+      "userId": "b1b6",
+      "items": [
+        {
+          "id": "33",
+          "name": "Brushes",
+          "image": "/Images/black-brushes.jpg",
+          "price": 199,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 199,
+      "date": "2/12/2025, 4:35:33 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1764734502140",
+      "userId": "b1b6",
+      "items": [
+        {
+          "id": "16",
+          "name": "Lip Matte 4",
+          "image": "/Images/light-pink.jpg",
+          "price": 499,
+          "qty": 3
+        },
+        {
+          "id": "26",
+          "name": "Brush Set 2",
+          "image": "/Images/sponch.jpg",
+          "price": 85,
+          "qty": 1
+        },
+        {
+          "id": "39",
+          "name": "Bridal Bundle 3",
+          "image": "/Images/bridal-three.jpg",
+          "price": 110,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "UPI",
+      "total": 1692,
+      "date": "3/12/2025, 9:31:42 am",
+      "status": "Packed"
+    },
+    {
+      "id": "1764734930189",
+      "userId": "0e0f",
+      "items": [
+        {
+          "id": "31",
+          "name": "Nykaa light cream foundation",
+          "image": "\\Images\\facesecone.jpg",
+          "price": 249,
+          "qty": 1
+        },
+        {
+          "id": "34",
+          "name": "Bridal Cos Full combo",
+          "image": "/Images/bridal-five.jpg",
+          "price": 4999,
+          "qty": 1
+        },
+        {
+          "id": "25",
+          "name": "Brush Set 1",
+          "image": "/Images/white-brushes.jpg",
+          "price": 80,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 5328,
+      "date": "3/12/2025, 9:38:50 am",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1764820988700",
+      "userId": "b9d3",
+      "items": [
+        {
+          "id": "33",
+          "name": "Brushes",
+          "image": "/Images/black-brushes.jpg",
+          "price": 199,
+          "qty": 2
+        },
+        {
+          "id": "14",
+          "name": "Lip Matte 2",
+          "image": "/Images/meroon.jpg",
+          "price": 349,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 747,
+      "date": "4/12/2025, 9:33:08 am",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1765897078709",
+      "userId": "a5e5",
+      "items": [
+        {
+          "id": "39",
+          "name": "Bridal Bundle 3",
+          "image": "/Images/bridal-three.jpg",
+          "price": 110,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "CARD",
+      "total": 110,
+      "date": "16/12/2025, 8:27:58 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1766125984583",
+      "userId": "a5e5",
+      "items": [
+        {
+          "id": "31",
+          "name": "Nykaa light cream foundation",
+          "image": "\\Images\\facesecone.jpg",
+          "price": 249,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "UPI",
+      "total": 249,
+      "date": "19/12/2025, 12:03:04 pm",
+      "status": "Order Placed"
+    },
+    {
+      "id": "1774428324728",
+      "userId": "69a3",
+      "items": [
+        {
+          "id": "26",
+          "name": "Brush Set 2",
+          "image": "/Images/sponch.jpg",
+          "price": 85,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "COD",
+      "total": 85,
+      "date": "3/25/2026, 2:15:24 PM",
+      "status": "Order Placed"
+    },
+    {
+      "id": 1776077588914,
+      "userId": "f2a5",
+      "items": [
+        {
+          "id": "32",
+          "name": "Dark eyeybrow  Palette",
+          "image": "\\Images\\eyesecfour.jpg",
+          "price": 62,
+          "qty": 1
+        },
+        {
+          "id": "33",
+          "name": "Brushes",
+          "image": "/Images/black-brushes.jpg",
+          "price": 199,
+          "qty": 2
+        },
+        {
+          "id": "34",
+          "name": "Bridal Cos Full combo",
+          "image": "/Images/bridal-five.jpg",
+          "price": 4999,
+          "qty": 1
+        }
+      ],
+      "paymentMethod": "UPI",
+      "total": 5459,
+      "date": "13/4/2026, 4:23:08 pm",
+      "status": "Order Placed"
+    }
+  ]
+}

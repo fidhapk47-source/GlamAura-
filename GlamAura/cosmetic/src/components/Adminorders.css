@@ -1,0 +1,79 @@
+.admin-orders-container {
+  padding: 20px;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.order-table {
+  background: #f8a1d1;
+  padding: 20px;
+  border-radius: 12px;
+  color: black;
+}
+.table_clr{
+  color: black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background: #ff008c;
+  color: white;
+}
+
+th, td {
+  padding: 12px;
+  text-align: center;
+}
+
+tr {
+  background: white;
+  border-bottom: 1px solid #ddd;
+}
+
+/* ✅ ITEMS */
+.admin-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 6px;
+  justify-content: center;
+}
+
+.admin-item-img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+/* ✅ STATUS */
+.status-dropdown {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+/* ✅ DELETE */
+.delete-btn {
+  background: red;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  background: darkred;
+}
+
+.no-orders-msg {
+  text-align: center;
+  margin-top: 20px;
+}

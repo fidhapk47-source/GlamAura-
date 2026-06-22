@@ -1,0 +1,62 @@
+.success-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #fff0f6, #ffe5ec);
+}
+
+.success-card {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  animation: fadeIn 0.6s ease-in-out;
+}
+
+.checkmark {
+  font-size: 60px;
+  color: #ff4d6d;
+  animation: pop 0.5s ease;
+}
+
+.success-card h1 {
+  margin-top: 10px;
+  color: #333;
+}
+
+.success-card p {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+/* ✅ Single button center */
+.btn-group {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-group button {
+  padding: 10px 25px;
+  border: none;
+  background: #ff4d6d;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-group button:hover {
+  background: #e6004c;
+}
+
+@keyframes pop {
+  0% { transform: scale(0); }
+  100% { transform: scale(1); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
